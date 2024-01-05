@@ -13,7 +13,7 @@ using namespace std;
 
 typedef struct _DATA {
 	int key;
-	int val;
+	int   val;
 	struct _DATA *next;
 } DATA;
 
